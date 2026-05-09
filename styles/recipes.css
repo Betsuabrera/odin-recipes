@@ -1,0 +1,30 @@
+body{
+    padding: 8px 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    background-image: url("/images/backgroundRecipes.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+a{
+    font-weight: bold;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+
+.tittle{
+    text-align: center;
+}
+
+img{
+    width: 700px;
+    height: 500px;
+    border-radius: 8px;
+}
+
+h2{
+    border-left: 5px solid rgb(154, 109, 37);
+    padding-left: 4px;
+    margin-top: 45px;
+}
