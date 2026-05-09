@@ -1,0 +1,28 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background-image: url("./images/wallpaper.png");
+    margin: 170px auto;
+    font-size: 20px;
+}
+
+#desc{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    background-color: rgba(240, 175, 102, 0.613);
+    display: inline;
+    padding: 8px;
+    border-radius: 8px;
+}
+
+li, a{
+    display: inline-block;
+    margin-right: 20px;
+    color: inherit;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+
+/*NOTA: de fondo a la pagina le podemos poner una imagen
+de cuadros rojos, como tipo mantel*/
