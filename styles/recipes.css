@@ -12,6 +12,11 @@ a{
     text-decoration: none;
 }
 
+#arrow{
+    width: 73px;
+    height: 49px;
+}
+
 
 .tittle{
     text-align: center;
@@ -24,7 +29,13 @@ img{
 }
 
 h2{
-    border-left: 5px solid rgb(154, 109, 37);
-    padding-left: 4px;
-    margin-top: 45px;
+    display: inline-block;
+    background-color: rgba(240, 176, 102, 0.406);
+    margin: 45px 0 0;
+    padding: 4px 8px;
+    border-radius: 8px;
+}
+
+p, li{
+    font-size: 18px;
 }
